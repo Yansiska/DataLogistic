@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\bin\Debug\LogisticData.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\bin\Debug\LogisticData.exe
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\bin\Debug\LogisticData.pdb
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.FormLogin.resources
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.exe
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.pdb
+c:\users\user\documents\visual studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.MenuLogistic.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.DataLogstic.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.OutcomeGoods.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\LogisticData\LogisticData\obj\Debug\LogisticData.REPORT.resources
